@@ -44,9 +44,6 @@ export default function AddHabitScreen() {
         }
       );
 
-      setTitle("");
-      setDescription("");
-      setFrequency("daily");
       setError(null);
 
       router.back();
